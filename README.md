@@ -4,38 +4,38 @@
 ## Praktikum 1: Pertanyaan HTML 
 
 # Soal
-1.Apa fungsi <table>, <tr>, <th>, dan <td>? 
-2.Apa perbedaan <th> dan <td>? 
+1.Apa fungsi `<table>`, `<tr>`, `<th>`, dan `<td>`? 
+2.Apa perbedaan `<th>` dan `<td>`? 
 3.Apa fungsi colspan pada tabel? 
-4.Apa fungsi <form> dalam HTML? 
+4.Apa fungsi `<form>` dalam HTML? 
 5.Apa perbedaan radio button dan checkbox? 
-6.Mengapa <label> sebaiknya terhubung dengan id input melalui atribut for? 
-7.Apa perbedaan <textarea> dengan input type text? 
-8.Apa fungsi semantic HTML seperti <header>, <nav>, <main>, <section>, <article>, <aside>, dan 
-<footer>? 
+6.Mengapa `<label>` sebaiknya terhubung dengan id input melalui atribut for? 
+7.Apa perbedaan `<textarea>` dengan input type text? 
+8.Apa fungsi semantic HTML seperti `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, dan 
+`<footer>`? 
 9.Apa fungsi required, min, max, dan minlength? 
-10.Apa perbedaan elemen <audio> dan <video>?
+10.Apa perbedaan elemen `<audio>` dan `<video>`?
 
 # Jawaban 
-1.<table> digunakan untuk membuat tabel, <tr> untuk membuat baris tabel, <th> untuk membuat header/judul kolom, dan <td> untuk membuat data pada tabel.
+1.`<table>` digunakan untuk membuat tabel, `<tr>` untuk membuat baris tabel, `<th>` untuk membuat header/judul kolom, dan `<td>` untuk membuat data pada tabel.
 
-2.<th> digunakan sebagai header atau judul pada tabel, sedangkan <td> digunakan untuk menampilkan data tabel.
+2.`<th>` digunakan sebagai header atau judul pada tabel, sedangkan `<td>` digunakan untuk menampilkan data tabel.
 
 3.colspan digunakan untuk menggabungkan beberapa kolom menjadi satu kolom.
 
-4.<form> digunakan sebagai tempat atau wadah untuk mengelompokkan input yang digunakan pengguna untuk memasukkan atau mengirim data
+4.`<form>` digunakan sebagai tempat atau wadah untuk mengelompokkan input yang digunakan pengguna untuk memasukkan atau mengirim data
 
 5.Radio button digunakan untuk memilih satu opsi, sedangkan checkbox dapat digunakan untuk memilih beberapa opsi.
 
 6.Agar label memberikan keterangan yang jelas pada input dan terhubung dengan input yang sesuai. Contohnya for="nama" terhubung dengan id="nama".
 
-7.<textarea> digunakan untuk memasukkan teks, biasanya untuk data yang lebih panjang, sedangkan input type="text" digunakan untuk memasukkan data teks dalam satu input. PPT menyebut <textarea> sebagai salah satu elemen form, tetapi tidak menjelaskan perbedaannya secara khusus.
+7.`<textarea>` digunakan untuk memasukkan teks, biasanya untuk data yang lebih panjang, sedangkan input type="text" digunakan untuk memasukkan data teks dalam satu input. PPT menyebut `<textarea>` sebagai salah satu elemen form, tetapi tidak menjelaskan perbedaannya secara khusus.
 
-8.Elemen semantic digunakan untuk memberikan makna dan menjelaskan struktur halaman. <header> untuk bagian kepala halaman, <nav> untuk navigasi, <main> untuk konten utama, <section> untuk mengelompokkan bagian konten, <article> untuk konten mandiri, <aside> untuk konten samping, dan <footer> untuk bagian kaki halaman.
+8.Elemen semantic digunakan untuk memberikan makna dan menjelaskan struktur halaman. `<header>` untuk bagian kepala halaman, `<nav>` untuk navigasi, `<main>` untuk konten utama, `<section>` untuk mengelompokkan bagian konten, `<article>` untuk konten mandiri, `<aside>` untuk konten samping, dan `<footer>` untuk bagian kaki halaman.
 
 9.required membuat input wajib diisi. min menentukan nilai minimum dan max menentukan nilai maksimum. minlength menentukan panjang karakter minimum yang harus dimasukkan. Atribut-atribut ini digunakan untuk membantu memeriksa input sebelum data diproses.
 
-10.<audio> digunakan untuk menampilkan atau memutar audio, sedangkan <video> digunakan untuk menampilkan atau memutar video. Atribut controls digunakan untuk menampilkan kontrol pemutaran.
+10.`<audio>` digunakan untuk menampilkan atau memutar audio, sedangkan `<video>` digunakan untuk menampilkan atau memutar video. Atribut controls digunakan untuk menampilkan kontrol pemutaran.
 
 # LAPORAN HASIL PRAKTIKUM 
 index.html
